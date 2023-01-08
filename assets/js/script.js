@@ -14,7 +14,7 @@ function agregar(e){
     let item = document.createElement('div')
     let compra = entrada.value;
     
-    item.innerHTML = `<div class="alert alert-primary text-dark alert-dismissible fade show">
+    item.innerHTML = `<div class="alert alert-light text-dark alert-dismissible fade show sombra">
                     <strong>${compra}</strong>
                     <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="close"></button>
                      </div>`

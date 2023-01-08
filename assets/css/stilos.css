@@ -2,13 +2,20 @@
 
 body{
     width: 100%;
-    background-color: #f5e76d;
+    
     
 }
 
 .modo-dia{
+    background-color: #f5e76d;
     
 }
+.titulo{
+    
+    font-weight: bold;
+}
+
+
 .contenedor{
     display: flex;
     flex-direction: column;
@@ -33,6 +40,10 @@ body{
     width: 100%;
     margin-bottom: 1rem;
     
+}
+
+.sombra{
+    box-shadow: 2px 2px 10px 1px black;
 }
 
 
