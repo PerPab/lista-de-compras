@@ -5,6 +5,10 @@ body{
     background-color: #f5e76d;
     
 }
+
+.modo-dia{
+    
+}
 .contenedor{
     display: flex;
     flex-direction: column;
