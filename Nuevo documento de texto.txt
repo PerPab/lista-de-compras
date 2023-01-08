@@ -1,0 +1,4 @@
+`<div class="alert alert-primary text-dark alert-dismissible fade show">
+                    <strong>hola</strong>
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="close"></button>
+                </div>`

@@ -1,0 +1,43 @@
+
+
+body{
+    width: 100%;
+    background-color: #f5e76d;
+    
+}
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+.entrada{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 70%;
+    height: 3rem;
+    border: solid 2px black;
+   
+}
+
+.lista{
+    width: 100%;
+}
+
+.boton{
+    width: 100%;
+    margin-bottom: 1rem;
+    
+}
+
+
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 640px) {
+    .entrada{
+        width: 100%;
+    }
+
+
+
+}
